@@ -206,8 +206,8 @@ The model ingests structured features per corridor/location:
 | **Cohort** | NextGen |
 | **FEED Pillar** | Digital Inclusion |
 | **Track** | Data / AI / ML |
-| **Submitter** | [Your Full Name] |
-| **State** | [Your State] |
+| **Submitter** | [Rukayat Opeyemi Adetona] |
+| **State** | [Oyo State] |
 | **Deadline** | March 24, 2026 — 11:59 PM |
 
 ---
