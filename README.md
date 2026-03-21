@@ -205,7 +205,7 @@ The model ingests structured features per corridor/location:
 | **Challenge** | 3MTT Knowledge Showcase 2026 |
 | **Cohort** | NextGen |
 | **FEED Pillar** | Digital Inclusion |
-| **Track** | Data / AI / ML |
+| **Track** | Data /UI/UX|
 | **Submitter** | [Rukayat Opeyemi Adetona] |
 | **State** | [Oyo State] |
 | **Deadline** | March 24, 2026 — 11:59 PM |
