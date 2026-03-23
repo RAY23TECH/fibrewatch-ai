@@ -1,7 +1,7 @@
 # 🤖 AI / Tool Disclosure
 
 > **3MTT Knowledge Showcase 2026 — Required Submission Document**  
-> Submitter: [Your Full Name] | State: [Your State] | Track: Data / AI / ML
+> Submitter: [Rukayat Opeyemi Adetona] | State: [Oyo State] | Track: Data / AI / ML/UI/UX
 
 ---
 
@@ -71,9 +71,9 @@ I confirm that:
 - All code has been reviewed, understood, and validated by me personally
 - The problem, solution design, and impact framing are original to this submission
 
-**Signed:** [Your Full Name]  
+**Signed:** [Rukayat Opeyemi Adetona]  
 **Date:** March 24, 2026  
-**State:** [Your State]
+**State:** [Oyo State]
 
 ---
 
