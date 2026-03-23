@@ -1,8 +1,8 @@
 """
 FibreWatch AI — Predictive Fibre Cut Risk Dashboard
 3MTT Knowledge Showcase | NextGen Cohort | February 2026
-Author: [Your Name]
-Track: Data / AI / ML
+Author: [Rukayat Adetona]
+Track: Data / AI / ML/UI/UX
 FEED Pillar: Digital Inclusion
 """
 
@@ -249,7 +249,7 @@ def main():
     # Footer
     st.markdown("""
     <div style='text-align:center; color:#888; margin-top:20px; font-size:12px;'>
-    FibreWatch AI | 3MTT Knowledge Showcase 2026 | FEED Pillar: Digital Inclusion | Built by [Your Name]
+    FibreWatch AI | 3MTT Knowledge Showcase 2026 | FEED Pillar: Digital Inclusion | Built by [Rukayat Adetona]
     </div>
     """, unsafe_allow_html=True)
 
